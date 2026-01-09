@@ -1,0 +1,7 @@
+{
+  "name": "Eternity Ministries",
+  "description": "A comprehensive ministry application to help users live with eternity in view, featuring teachings, training programs (SODIP/SEAL), events, and giving opportunities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
